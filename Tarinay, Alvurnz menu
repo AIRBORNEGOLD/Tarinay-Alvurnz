@@ -1,0 +1,75 @@
+<html>
+	<head>
+       <link rel="stylesheet" type="text/css" href="tarinay.css">
+<h1><center><img src="manam.png" alt="manam.png" width="100"></center></h1>
+</head>
+   <body>
+    <center><h2 colspan="1">CLASSIC MEALS</h2></center>
+ <table border="1" cellpadding="10" cellspacing="10">
+        
+
+
+         </tr>
+         <tr>
+            
+          <td><img src="sisig.jpg" alt="HOUSE CRISPY SISIG" width="75">
+
+
+          HOUSE CRISPY SISIG P205</td>
+          
+          <td><img src="sinigang.jpg" alt="SINIGANG NA BEEF SHORT RIB & WATERMELON" width="75">
+
+SINIGANG NA BEEF SHORT RIB & WATERMELON P300</td>
+          
+          <td><img src="crispy pata.jpg" alt="HOUSE CRISPY SISIG" width="75">
+
+
+          CRISPY PATA TIM WITH PAODESAL P460</td>
+          
+          <td><img src="gisging.jpg" alt="GISING GISING" width="75">
+
+
+          GISING GISING P165</td>
+          
+          <td><img src="karekare.jpg" alt="HOUSE CRISPY SISIG" width="75">
+
+
+          KARE-KARE WITH OXTAIL P365</td>
+          
+          <td><img src="wings.jpg" alt="wings" width="75">
+
+CARAMELIZED PATIS WINGS P205</td>
+          
+          </tr>
+          <tr>
+          <table border="2" cellpadding="10" cellspacing="10">
+          <center><h2 colspan="1">ALMUSAL/DESSERT</h2></center>
+          
+          <td>
+         <img src="chocolate.jpg" alt="champorado" width="75">
+
+        CHOCOLATE CHAMPORADO P195</td>
+          
+          <td><img src="ubesago.jpg" alt="sago" width="75">
+
+UBE AND SAGO 180</td>
+          
+          <td><img src="ube.jpg" alt="ube champorado" width="75">
+
+
+          UBE CHAMPORADO P195</td>
+          
+          
+      
+         </tr>
+         <tr>
+            
+         </tr>
+      </tbody></table>
+      
+
+
+               </table> 
+                     </body> 
+
+                     </html>
