@@ -1,10 +1,33 @@
 body {
-	background-color: moccasin;
+    font-family: 'Arial;', sans-serif;
+    background-color: lightgray;
 
 }
-h1
-table,td {border: 8px solid cyan;
-	border-spacing: 50px;}
 
-	th,td
+
+.section-header {
+	border: 10px solid cyan;
+	padding: 10px;
+	margin-top: 20px;
+	color: darkcyan;
+}
+th {
+    background-color: lightgray ;
+    color: grey; 
+}
+
+td {
+    background-color: moccasin ;
+    color: black;
+    border: solid cyan;
+
+}
+
+button {
+      background-color: cyan; 
+    color: white; 
+    padding: 8px 15px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
 }
